@@ -31,8 +31,8 @@ A landing page apresenta:
 ---
 
 ## 🙍 Integrantes
-Carlos Augusto Camillo de Andrade Junior: Analista e Redator
-Gabrielle Gomes dos Santos: Designer e Redatora
-Hikaru Kawata: Programador e Designer
-Júlia Vieira da Silva: Gerente de projetos e Redatora
-Kaique Oliveira de Miranda: Analista e Programador
+- Carlos Augusto Camillo de Andrade Junior: Analista e Redator
+- Gabrielle Gomes dos Santos: Designer e Redatora
+- Hikaru Kawata: Programador e Designer
+- Júlia Vieira da Silva: Gerente de projetos e Redatora
+- Kaique Oliveira de Miranda: Analista e Programador
